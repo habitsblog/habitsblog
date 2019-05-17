@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-17T14:44:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Habitsblog</title><subtitle>Reviewing readings on behaviour and habit-forming.</subtitle><author><name>anonymous</name><email>habitsblog1@gmail.com</email></author><entry><title type="html">Hacking the habit process - Atomic Habits 3-4</title><link href="http://localhost:4000/2019/05/13/atomic34/" rel="alternate" type="text/html" title="Hacking the habit process - Atomic Habits 3-4" /><published>2019-05-13T00:00:00+02:00</published><updated>2019-05-13T00:00:00+02:00</updated><id>http://localhost:4000/2019/05/13/atomic34</id><content type="html" xml:base="http://localhost:4000/2019/05/13/atomic34/">&lt;h3 id=&quot;atomic-habits-3-4-review&quot;&gt;Atomic Habits 3-4 Review&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;“The Conscious mind is the bottleneck of the brain”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Whenever possible, your mind will strive to “pawn off” tasks to the unconscious brain. Since a habit is essentially just a behaviour that becomes automated, it is desirable to form good habits–so that you can have as many as possible life-improving and identity changing behaviours behave automatically. This in place of laying the task on your conscious brain, which takes significantly more effort. This provides you with more conscious freedom to expend wherever you see fit.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-process-of-building-a-habit&quot;&gt;The process of building a habit&lt;/h4&gt;
+
+&lt;p&gt;The habit building process as described by Clear can be divided in to four steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cue - Trigger your brain to initiate a behaviour. Basically, any kind of sensory input, activity, or something that can trigger a behavioural response. The cue is about &lt;strong&gt;noticing&lt;/strong&gt; the reward.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Craving - The motivational force behind every habit, the “&lt;strong&gt;why?&lt;/strong&gt;”. The craving is about &lt;strong&gt;wanting&lt;/strong&gt; the reward.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Response - The actual habit you form, the action that you perform in response to the cue. Objective of the response, is to achieve the reward. The response is about &lt;strong&gt;obtaining&lt;/strong&gt; the reward.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reward - Finally, the reward that is delivered by the response.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This process constitutes a subconscious neurological feedback loop that you go through every time you perform a habit.&lt;/p&gt;
+
+&lt;h4 id=&quot;hacking-the-habit-process&quot;&gt;Hacking the habit process&lt;/h4&gt;
+
+&lt;p&gt;Having introduced this process, Clear’s theory starts to come into play–his goal for the next sections is to try to elucidate how one might positively influence this process according to his methodology, in order to build &lt;em&gt;good&lt;/em&gt; habits and break &lt;em&gt;bad&lt;/em&gt; habits.&lt;/p&gt;
+
+&lt;p&gt;He mentions briefly the ways he views this, for each step of the habit forming process.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Step&lt;/th&gt;
+      &lt;th&gt;Forming a good habit&lt;/th&gt;
+      &lt;th&gt;Breaking a bad habit&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cue&lt;/td&gt;
+      &lt;td&gt;Make the cue obvious&lt;/td&gt;
+      &lt;td&gt;Make the cue invisible&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Craving&lt;/td&gt;
+      &lt;td&gt;Make the craving attractive&lt;/td&gt;
+      &lt;td&gt;Make the craving unattractive&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Response&lt;/td&gt;
+      &lt;td&gt;Make the response Easy&lt;/td&gt;
+      &lt;td&gt;Make the response difficult&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Reward&lt;/td&gt;
+      &lt;td&gt;Make the reward satisfying&lt;/td&gt;
+      &lt;td&gt;Make the reward Unsatisfying&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;These objectives are referred to by Clear as &lt;strong&gt;The Four Laws for Behaviour Change&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-first-law-make-it-obvious&quot;&gt;The first law: Make it obvious&lt;/h4&gt;
+
+&lt;p&gt;Many of the habits that we have already ingrained, run automatically as described in the previous section. Clear refers to the “point and call” practice applied by Japanese train conductors–by explicitly calling out every step of the conductor’s safety protocol, they have significantly reduced human error. This same ideal applied to habit forming starts with the explicit identification of habits, be they good or bad. His suggested method for doing this is the habit scorecard.&lt;/p&gt;
+
+&lt;p&gt;While not perfect, this method can provide you with a bit of a cursory overview as to daily habits and how you percieve them.&lt;/p&gt;
+
+&lt;p&gt;In my case, I noticed that I scored relatively few daily habits negative (-), but feel that the scorecard lacks a weighting system that effectively emphasises the effect of each habit–my negative habits often steal a lot of time and energy out of my day. While “browse the internet again” doesn’t seem very harmful, it sucks if that happens to take up a whole hour or more, without any sense of real satisfaction besides temporary relaxation.&lt;/p&gt;
+
+&lt;p&gt;Habits Scorecard &amp;lt;/br&amp;gt;
+Neutral (=)
+Positive (+)
+Negative (-)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Habit&lt;/th&gt;
+      &lt;th&gt;Score&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wake up&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check Phone&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shower and get dressed&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Podcast on (positive or negative, depending on entertainment or educational)&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Make coffee&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Make (healthy) breakfast&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wins for the day&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Browse news &amp;amp; reddit&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Brush teeth + Grooming&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pack Lunch&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leave the house&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cycle to University&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Set up workspace&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Browse internet again&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Make todo-list&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get to work, pomodoros&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Groceries, on the way home&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;If time, relax for an hour&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cook dinner&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Watch TV, eat&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Run for 45-60, more podcasts&lt;/td&gt;
+      &lt;td&gt;+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Finish up tasks, if any left&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Get to bed&lt;/td&gt;
+      &lt;td&gt;=&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Browse internet, again&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>anonymous</name><email>habitsblog1@gmail.com</email></author><category term="Atomic Habits" /><summary type="html">Atomic Habits 3-4 Review “The Conscious mind is the bottleneck of the brain”</summary></entry></feed>
